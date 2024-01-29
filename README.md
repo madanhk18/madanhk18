@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @madanhk18
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c,java,c++
-- 💞️ I’m looking to collaborate on open source
+- 👨🏻‍💻I’m currently learning c and Java
+- I’m looking to collaborate on open source
 - 📫 How to reach me madanhk18@gmail.com
 
 <!---
