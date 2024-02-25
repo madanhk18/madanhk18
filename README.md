@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Madan H K</h1>
+<h1 align="center">Hey 👋, I'm Madan H K</h1>
 <h3 align="center">A student who is eager to learn new skills</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madanhk18&label=Profile%20views&color=0e75b6&style=flat" alt="madanhk18" /> </p>
 
-- 🔭 I’m currently working on **React JS**
+-  I am currently working on **React JS**
 
-- 🌱 I’m currently learning **HTML , CSS , Java script, Java**
+-  I am currently learning **HTML , CSS , Java script, Java**
 
-- 📫 How to reach me **madanhk18@gmail.com**
+- You can reach me through -> **madanhk18@gmail.com**
 
-- ⚡ Fun fact **I know am talkative**
+- About meh -> **I know am talkative**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
