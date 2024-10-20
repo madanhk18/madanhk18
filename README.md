@@ -9,7 +9,7 @@
 
 - You can reach me through -> **madanhk18@gmail.com**
 
-- About meh -> **I know am talkative**
+- About meh -> **I like to learn things which am intrested on**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
