@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madanhk18&label=Profile%20views&color=0e75b6&style=flat" alt="madanhk18" /> </p>
 
--  I am currently working on **React JS**
+-  I am currently working on **Spring boot**
 
--  I am currently learning **HTML , CSS , Java script, Java**
+-  I am currently learning **HTML , CSS , MySql, Java**
 
 - You can reach me through -> **madanhk18@gmail.com**
 
