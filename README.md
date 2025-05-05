@@ -5,7 +5,7 @@
 
 -  I am currently working on **Spring boot**
 
--  I am currently learning **HTML , CSS , MySql, Java**
+-  I have good knowledge on **HTML , CSS , MySql, Java**
 
 - You can reach me through -> **madanhk18@gmail.com**
 
