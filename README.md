@@ -3,21 +3,36 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madanhk18&label=Profile%20views&color=0e75b6&style=flat" alt="madanhk18" /> </p>
 
--  I am currently working on **Spring boot**
+A passionate Full Stack Developer from India
 
--  I have good knowledge on **HTML , CSS , MySql, Java**
+- 🌱 I’m currently learning **Spring Boot & Backend Systems**
+- 💬 Ask me about **Java, MySQL, HTML, CSS**
+- 📫 How to reach me: **madanhk18@gmail.com**
+- 🧑‍💻 About me: *I love learning new things that spark my interest*
 
-- You can reach me through -> **madanhk18@gmail.com**
+---
 
-- About meh -> **I like to learn things which am intrested on**
-
-<h3 align="left">Connect with me:</h3>
+### 🌐 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/madan-h-k-b86426261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/madan-h-k-b86426261" height="30" width="40" /></a><a href="https://www.leetcode.com/madanhk18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="madanhk18" height="30" width="40" /></a><a href="https://auth.geeksforgeeks.org/user/madanhk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="madanhk" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/madanhk18" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
+  <a href="https://leetcode.com/madanhk18" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/>
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/madanhk" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="" target="_blank"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)" alt="MySQL" width="40" height="40"/>   </a>
-  
+---
 
-
+### 🛠️ Tools & Technologies
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+</p>
