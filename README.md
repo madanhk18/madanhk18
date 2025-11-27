@@ -7,8 +7,8 @@ A passionate Java Developer from India
 
 - 🌱 I’m currently learning **Spring Boot & Backend Systems**
 - 💬 Ask me about **Java, MySQL, HTML, CSS**
-- 📫 How to reach me: **madanhk18@gmail.com**
-- 🧑‍💻 About me: *I love learning new things that spark my interest*
+- 📫 How to reach me:- **madanhk18@gmail.com**
+- 🧑‍💻 About me:- *I love learning new things that spark my interest*
 
 ---
 
