@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madanhk18&label=Profile%20views&color=0e75b6&style=flat" alt="madanhk18" /> </p>
 
-A passionate Full Stack Developer from India
+A passionate Java Developer from India
 
 - 🌱 I’m currently learning **Spring Boot & Backend Systems**
 - 💬 Ask me about **Java, MySQL, HTML, CSS**
